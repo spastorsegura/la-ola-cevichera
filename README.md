@@ -33,11 +33,13 @@ Incluye animaciones, diseño responsivo y navegación fluida, ideal para atraer 
 ---
 
 ## 📂 Estructura
+
 - `/components`: Hero, Header, MenuSection, Recomendacion, Reserva, Footer.
 
 ---
 
 ## ✨ Decisiones de Diseño
+
 - Colores inspirados en tonos marinos (azules, turquesas).
 - Tipografía Exo, limpia y moderna, de Google Fonts.
 - Uso de video en el hero para dar dinamismo y acercamiento al producto fresco.
@@ -45,9 +47,14 @@ Incluye animaciones, diseño responsivo y navegación fluida, ideal para atraer 
 ---
 
 ## 🤖 Prompts de IA
+
 Resumen de prompts utilizados con ChatGPT:
+
 - "dame los contenidos para una landing de una cevichería"
 - "hacer la landing con esa estructura"
 - "animacion que cargue los platos con un pequeño retraso entre items"
 - "Validación en vivo de nombre, email, teléfono y mensaje con ring rojo en errores."
 
+---
+
+🔗 **Deploy en Netlify:** [https://ola-cevichera.netlify.app/](https://ola-cevichera.netlify.app/)
