@@ -1,6 +1,6 @@
 # 🌊 La Ola Cevichera
 
-![Logo del Proyecto](./public/logo cevicherria 1.svg)
+![Logo del Proyecto](./public/logo%20cevicherria%201.svg)
 
 ---
 
