@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Exo:ital,wght@0,100..900;1,100..900&display=swap");
+@import "tailwindcss";
+
+@theme {
+  --color-color1: #183966;
+  --color-color2: #5cd8f8;
+  --color-color3: #07789f;
+  --color-color4: #000;
+  --color-color5: #fff;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a,
+label,
+button {
+  font-family: "Exo", sans-serif;
+}
+
+input {
+  border-radius: 5rem;
+}
+
+img {
+  pointer-events: none;
+}
+
+::selection {
+  @apply bg-color3 text-white;
+}

@@ -25,18 +25,29 @@ Incluye animaciones, diseño responsivo y navegación fluida, ideal para atraer 
 
 - ⚛️ **React 19 + TypeScript** – Base del proyecto
 - ⚡ **Vite 7** – Empaquetador rápido
-- 🎨 **TailwindCSS 4** – Estilos modernos y responsivos
-- 🎭 **Framer Motion** – Animaciones suaves
-- 🎯 **React Scroll** – Scroll animado para secciones
+- 🎨 **TailwindCSS 4** – Estilos CSS
+- 🎭 **Framer Motion** – Animaciones
+- 🎯 **React Scroll** – Scroll para secciones
 - 🎨 **React Icons** – Iconografía
 
 ---
 
-## 🚀 Instrucciones de instalación
+## 📂 Estructura
+- `/components`: Hero, Header, MenuSection, Recomendacion, Reserva, Footer.
 
-1. **Clonar el repositorio**
-   ```bash
-   git clone https://github.com/tu-usuario/la-ola-cevichera.git
-   cd la-ola-cevichera
-   ```
-# la-ola-cevichera
+---
+
+## ✨ Decisiones de Diseño
+- Colores inspirados en tonos marinos (azules, turquesas).
+- Tipografía Exo, limpia y moderna, de Google Fonts.
+- Uso de video en el hero para dar dinamismo y acercamiento al producto fresco.
+
+---
+
+## 🤖 Prompts de IA
+Resumen de prompts utilizados con ChatGPT:
+- "dame los contenidos para una landing de una cevichería"
+- "hacer la landing con esa estructura"
+- "animacion que cargue los platos con un pequeño retraso entre items"
+- "Validación en vivo de nombre, email, teléfono y mensaje con ring rojo en errores."
+
